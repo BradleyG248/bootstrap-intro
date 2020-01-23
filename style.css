@@ -1,0 +1,41 @@
+.bg-blue{
+  background-color: darkcyan;
+  color:white;
+}
+.outside{
+  padding: 2rem 10% 2rem 10%;
+}
+.bg-white{
+  margin:0px;
+}
+.white-row{
+  background-color:#f6f6f6;
+}
+hr{
+  margin-top:0px;
+  background-color:white;
+}
+div .btn{
+  border-radius:0px;
+}
+.bg-blue .btn{
+  background-color:white;
+  color: darkcyan;
+}
+.bg-white .btn{
+  background-color: darkcyan;
+  color:white;
+}
+p{
+  font-size:0.6em;
+}
+form{
+  width:70%;
+}
+.form-control{
+  border: white;
+  border-radius: 0px;
+}
+bg-white2{
+  backgrond-color:#f6f6f6
+}
